@@ -1,2 +1,1 @@
-# HelloWorld
-This is my first repository which is use to learned about the repository.
+I am just doing things that guide teaches me.
